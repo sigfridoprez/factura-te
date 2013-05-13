@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.sig.registrousuario
+OpenIDE-Module-Layer: org/sig/registrousuario/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/sig/registrousuario/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

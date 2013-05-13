@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.sig.derbyclient
+OpenIDE-Module-Localizing-Bundle: org/sig/derbyclient/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
