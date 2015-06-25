@@ -1,0 +1,1 @@
+Proyecto basado en en NetBeans Platform como ejercicio para aprender el funcionamiento de la plataforma y producir facturas electronicas.
